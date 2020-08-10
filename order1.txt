@@ -1,0 +1,1 @@
+[{"beverage":"ginger_tea"},{"beverage":"green_tea"},{"beverage":"black_tea"},{"beverage":"hot_coffee"},{"beverage":"hot_tea"},{"beverage":"elaichi_tea"},{"beverage":"hot_water"},{"beverage":"hot_milk"}]
